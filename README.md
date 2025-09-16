@@ -1,4 +1,4 @@
-
+![toolxox com-enhanced-XArSH6gzj7Wt82PRCZFK9Tu4dV0EBy](https://github.com/user-attachments/assets/bbb8e304-636b-4cb9-9835-30c6936b068f)
 ![0.4.X.X Build](https://github.com/albertogeniola/MerossIot/workflows/Build%20Test%20and%20Release/badge.svg?branch=0.4.X.X)
 [![codecov](https://codecov.io/gh/albertogeniola/MerossIot/branch/0.4.X.X/graph/badge.svg?token=f0Rb4n4Vux)](https://codecov.io/gh/albertogeniola/MerossIot)
 ![Documentation](https://github.com/albertogeniola/MerossIot/workflows/Publish%20Documentation/badge.svg?branch=0.4.X.X)
